@@ -1,0 +1,35 @@
+#input_call{
+    width: 425px;
+    text-align:right;
+    height: 35px;
+    font-size: 21px;
+    margin: 0px 0px 0px 0px;
+    padding: 0px;
+}
+input[type=button]{
+width: 100px;
+height: 45px;
+text-align: center;
+font-size: 24px;
+margin: 5px 5px 0px 0px;
+}
+
+#button-clear{
+  width: 210px;
+}
+#all{
+margin: 50px 0px 0px 50px;
+float: left;
+}
+
+#output{
+  margin: 50px 0px 0px 50px;
+  float: left;
+  border: 4px double black;
+  border-radius: 5px;
+  width: 425px;
+  height: 340px;
+  overflow-x: auto;
+  overflow-y: auto;
+  padding-left: 15px;
+}
